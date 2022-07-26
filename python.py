@@ -29,3 +29,10 @@ print((my_name + " ") * 5)
 color = 'green'
 
 print(color)
+_ = my_age
+print(_)
+# len() - length
+print(len(my_name))
+
+my_name = input('Input name:')
+print(f"Hello, {my_name}!")
